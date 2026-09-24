@@ -1,9 +1,12 @@
 ---
-name: vendor-interview-questions
+name: vendor-questions
 description: Prepare the questions to ask a software vendor, agency, integrator (ERP/Odoo, custom software, mobile, AI) or freelancer before choosing them, adapted to the project type and situation (building a new system, taking over an existing one, or an urgent fix). Use when the user asks "what should I ask this agency?", "how do I choose a developer / integrator?", "questions à poser à un prestataire", or prepares a vendor meeting or RFP Q&A. For each question gives the expected good answer and the red flag.
+argument-hint: "<project type and situation: build, take over or urgent>"
 ---
 
 # Questions to ask a software vendor
+
+If the user passed arguments, they are: $ARGUMENTS
 
 **Language:** answer in the user's language.
 

@@ -6,15 +6,15 @@
 
 ## What it does
 
-| Command | Skill | You get |
-|---|---|---|
-| `/estimate <project>` | `estimate-software-project` | A low / likely / high budget range with its sources, an effort table and a 5-year total cost including licences |
-| `/review-spec <file>` | `review-specifications` | A readiness score for your specification (cahier des charges), the decisions to take before pricing, testable rewrites of weak requirements, integration checks |
-| `/review-quote <file>` | `review-quote-contract` | A verdict, red flags ranked by severity, missing clauses with wording to request (FR/EN), price positioning |
-| `/vendor-questions <context>` | `vendor-interview-questions` | 12–20 questions adapted to your project and situation, each with the good answer and the red flag |
-| `/compare-offers <files>` | `compare-vendor-offers` | A like-for-like comparison: scope coverage, 5-year cost, risk and ownership, recommendation |
-| — | `hosting-decision` | Cloud, sovereign cloud, SaaS or on-premise (priced as a separate option), decided before pricing |
-| — | `legacy-takeover-audit` | A takeover plan when the previous developer or agency is gone: secure, audit, stabilise, then evolve or migrate |
+| Skill (invoke as `/software-buyer-france:<name>`) | You get |
+|---|---|
+| `estimate` | A low / likely / high budget range with its sources, an effort table and a 5-year total cost including licences |
+| `review-spec` | A readiness score for your specification (cahier des charges), the decisions to take before pricing, testable rewrites of weak requirements, integration checks |
+| `review-quote` | A verdict, red flags ranked by severity, missing clauses with wording to request (FR/EN), price positioning |
+| `vendor-questions` | 12–20 questions adapted to your project and situation, each with the good answer and the red flag |
+| `compare-offers` | A like-for-like comparison: scope coverage, 5-year cost, risk and ownership, recommendation |
+| `hosting-decision` | Cloud, sovereign cloud, SaaS or on-premise (priced as a separate option), decided before pricing |
+| `legacy-takeover` | A takeover plan when the previous developer or agency is gone: secure, audit, stabilise, then evolve or migrate |
 
 Skills also trigger on their own when you ask things like *"is this quote fair?"*, *"combien coûte une application mobile ?"* or *"what should I ask this agency?"*.
 
@@ -50,6 +50,8 @@ Not legal advice: have high-stakes contracts reviewed by a lawyer.
 /plugin install software-buyer-france@jaikin
 ```
 
+Once listed in the community marketplace: `/plugin marketplace add anthropics/claude-plugins-community` then `/plugin install software-buyer-france@claude-community`.
+
 ## Privacy
 
 See [PRIVACY.md](PRIVACY.md). The MCP server stores nothing about your conversations; the documents you review are read by Claude locally and never sent to the server.
@@ -64,13 +66,15 @@ Built and maintained by [JAIKIN](https://jaikin.eu), Strasbourg (France). Issues
 
 **Acheter un logiciel sur mesure en France sans mauvaise surprise.** Repères de prix sourcés, relecture de cahier des charges, de devis et de contrat, questions à poser au prestataire, comparaison d'offres, choix de l'hébergement, reprise d'un existant.
 
-| Commande | Ce que vous obtenez |
+| Skill (invoquer `/software-buyer-france:<name>`) | Ce que vous obtenez |
 |---|---|
-| `/estimate <projet>` | Une fourchette basse / probable / haute avec ses sources, le détail de l'effort et le coût complet sur 5 ans, licences comprises |
-| `/review-spec <fichier>` | La maturité de votre cahier des charges, les décisions à prendre avant tout chiffrage, les exigences réécrites pour être testables |
-| `/review-quote <fichier>` | Un verdict, les signaux d'alerte classés par gravité, les clauses manquantes avec leur formulation, le positionnement du prix |
-| `/vendor-questions <contexte>` | Les questions à poser au prestataire, avec la bonne réponse attendue et le signal d'alerte |
-| `/compare-offers <fichiers>` | Une comparaison à périmètre égal : couverture, coût sur 5 ans, risque, propriété, recommandation |
+| `estimate` | Une fourchette basse / probable / haute avec ses sources, le détail de l'effort et le coût complet sur 5 ans, licences comprises |
+| `review-spec` | La maturité de votre cahier des charges, les décisions à prendre avant tout chiffrage, les exigences réécrites pour être testables |
+| `review-quote` | Un verdict, les signaux d'alerte classés par gravité, les clauses manquantes avec leur formulation, le positionnement du prix |
+| `vendor-questions` | Les questions à poser au prestataire, avec la bonne réponse attendue et le signal d'alerte |
+| `compare-offers` | Une comparaison à périmètre égal : couverture, coût sur 5 ans, risque, propriété, recommandation |
+| `hosting-decision` | Cloud, cloud souverain, SaaS ou sur site (option chiffrée à part), tranché avant le chiffrage |
+| `legacy-takeover` | Un plan de reprise quand le développeur ou l'agence précédente a disparu : sécuriser, auditer, stabiliser, puis faire évoluer ou migrer |
 
 **Données de prix** : marchés publics attribués (DECP, licence Etalab 2.0) pour l'ERP, les applications mobiles, la transformation numérique et l'AMOA, la GPAO/MES et le jumeau numérique ; chiffres du marché privé vérifiés à la source, avec URL et date.
 

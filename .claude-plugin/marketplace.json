@@ -1,4 +1,5 @@
 {
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
   "name": "jaikin",
   "description": "JAIKIN plugins for buying and delivering custom software in France.",
   "owner": {
@@ -8,8 +9,11 @@
   "plugins": [
     {
       "name": "software-buyer-france",
+      "displayName": "Software Buyer France",
       "source": "./",
-      "description": "Price benchmarks, specification, quote and contract review for buying custom software in France."
+      "description": "Price benchmarks, specification, quote and contract review for buying custom software in France.",
+      "category": "productivity",
+      "keywords": ["procurement", "software-pricing", "quote-review", "contract-review", "france"]
     }
   ]
 }

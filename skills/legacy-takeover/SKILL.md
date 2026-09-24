@@ -1,9 +1,12 @@
 ---
-name: legacy-takeover-audit
+name: legacy-takeover
 description: Plan the takeover of an existing application or information system whose vendor or developer is gone, whose code is undocumented, or whose ERP was badly integrated. Use when the user says "our developer left", "the agency disappeared", "nobody dares touch the ERP", "reprise d'application legacy", "should we rewrite or maintain?". Produces a phased takeover plan (secure, audit, stabilise, then evolve or migrate) and a rewrite-vs-maintain decision frame.
+argument-hint: "<what the system does and what is known>"
 ---
 
 # Take over an existing system
+
+If the user passed arguments, they are: $ARGUMENTS
 
 Rewriting is not a reflex. First regain control, then understand, then decide.
 

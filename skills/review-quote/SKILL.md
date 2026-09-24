@@ -1,9 +1,12 @@
 ---
-name: review-quote-contract
+name: review-quote
 description: Review a software development quote, statement of work or service contract (custom software, ERP/Odoo integration, mobile app, AI project) from the buyer's side. Use when the user shares a quote ("devis"), a proposal, a contract or asks "is this quote fair / safe / complete?", "what should I negotiate?", "what is missing in this contract?". Flags red flags by severity, missing clauses, price consistency, and gives replacement wording to request.
+argument-hint: "<path to the quote or contract>"
 ---
 
 # Review a software quote or contract (buyer side)
+
+If the user passed arguments, they are: $ARGUMENTS
 
 You are reviewing a document a **vendor** sent to a **buyer**. Your job is to protect the buyer: bounded price, bounded risk, full ownership, a clean exit. You are not a lawyer; say so once in the report and recommend legal review for high-stakes contracts.
 

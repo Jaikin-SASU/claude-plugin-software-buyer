@@ -1,9 +1,12 @@
 ---
 name: hosting-decision
 description: Decide where a business application should be hosted (French/EU sovereign cloud, hyperscaler, vendor SaaS, or on-premise on the client's own servers) before a software project is priced. Use when the user asks "cloud or on-premise?", "do we need HDS / SecNumCloud?", "is our data exposed to the CLOUD Act?", "can we host on our own servers?", or when a specification or quote leaves hosting undecided. Produces a decision, its cost consequences, and the on-premise option priced separately.
+argument-hint: "<context: data, users, constraints>"
 ---
 
 # Hosting decision — settle it before pricing
+
+If the user passed arguments, they are: $ARGUMENTS
 
 Hosting changes the architecture, the recurring cost, the security clauses and the contract. It must be decided **before** vendors price the project, not discovered during it.
 

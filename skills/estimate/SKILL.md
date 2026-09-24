@@ -1,9 +1,12 @@
 ---
-name: estimate-software-project
+name: estimate
 description: Estimate the budget of a custom software project in France (ERP or Odoo integration, business application, mobile app, digital transformation / project management assistance, production management GPAO/MES) with sourced market data — French public procurement contracts (DECP) and verified private-market figures — plus a 5-year total cost including licences. Use when the user asks "how much does an ERP / app / custom software cost?", "combien coûte…", "is this budget realistic?", or needs a budget range before asking for quotes.
+argument-hint: "<project description or path to a specification>"
 ---
 
 # Estimate a software project budget (France)
+
+If the user passed arguments, they are: $ARGUMENTS
 
 Give a **range with its sources and assumptions**, never a single magic number.
 

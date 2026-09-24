@@ -1,9 +1,12 @@
 ---
-name: review-specifications
+name: review-spec
 description: Review a software specification, requirements document, RFP or "cahier des charges" before sending it to vendors or before pricing it (custom software, ERP/Odoo, mobile app, AI agents). Use when the user shares requirements, asks "is my cahier des charges complete?", "what is missing before I ask for quotes?", or wants to turn a vague need into something vendors can price. Scores each section, lists gaps, and lists the decisions to make before any vendor can quote reliably.
+argument-hint: "<path to the specification>"
 ---
 
 # Review a specification before asking for quotes
+
+If the user passed arguments, they are: $ARGUMENTS
 
 A vague specification produces quotes that cannot be compared and projects that drift. Your job: make the document **priceable** and **testable**, and surface the decisions the buyer must take *before* pricing.
 

@@ -1,5 +1,7 @@
 # Changelog
 
+## Unreleased — 2026-09-24 : skills renamed to short invocable names, legacy commands/ removed, displayName added, version field removed (updates follow commits)
+
 ## 0.1.0 — 2026-09-24
 
 First release:
