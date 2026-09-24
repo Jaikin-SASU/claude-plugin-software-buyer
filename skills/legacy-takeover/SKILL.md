@@ -10,7 +10,7 @@ If the user passed arguments, they are: $ARGUMENTS
 
 Rewriting is not a reflex. First regain control, then understand, then decide.
 
-**Language:** answer in the user's language.
+**Language:** answer in the user's language. Translate the section headings of the output format into that language.
 
 ## Workflow
 

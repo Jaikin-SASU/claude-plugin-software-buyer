@@ -10,7 +10,7 @@ If the user passed arguments, they are: $ARGUMENTS
 
 The cheapest quote is often the one that has priced the least. Normalise first, then compare cost **and** risk.
 
-**Language:** answer in the user's language.
+**Language:** answer in the user's language. Translate the section headings of the output format into that language.
 
 ## Workflow
 

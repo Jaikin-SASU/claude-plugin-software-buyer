@@ -1,6 +1,8 @@
 # Changelog
 
-## Unreleased — 2026-09-24 : skills renamed to short invocable names, legacy commands/ removed, displayName added, version set to 0.2.0 (bumped at every release)
+## 0.2.1 — 2026-09-24 : output headings translated into the user's language.
+
+## 0.2.0 — 2026-09-24 : skills renamed to short invocable names, legacy commands/ removed, displayName added, version set to 0.2.0 (bumped at every release)
 
 ## 0.1.0 — 2026-09-24
 

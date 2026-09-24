@@ -10,7 +10,7 @@ If the user passed arguments, they are: $ARGUMENTS
 
 A vague specification produces quotes that cannot be compared and projects that drift. Your job: make the document **priceable** and **testable**, and surface the decisions the buyer must take *before* pricing.
 
-**Language:** answer in the user's language. Keep requirement IDs and quotes in the original language.
+**Language:** answer in the user's language. Keep requirement IDs and quotes in the original language. Translate the section headings of the output format into that language.
 
 ## Workflow
 

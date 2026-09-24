@@ -10,7 +10,7 @@ If the user passed arguments, they are: $ARGUMENTS
 
 Give a **range with its sources and assumptions**, never a single magic number.
 
-**Language:** answer in the user's language.
+**Language:** answer in the user's language. Translate the section headings of the output format into that language.
 
 ## Workflow
 

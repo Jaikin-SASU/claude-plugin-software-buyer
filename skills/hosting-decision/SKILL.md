@@ -10,7 +10,7 @@ If the user passed arguments, they are: $ARGUMENTS
 
 Hosting changes the architecture, the recurring cost, the security clauses and the contract. It must be decided **before** vendors price the project, not discovered during it.
 
-**Language:** answer in the user's language.
+**Language:** answer in the user's language. Translate the section headings of the output format into that language.
 
 ## Workflow
 

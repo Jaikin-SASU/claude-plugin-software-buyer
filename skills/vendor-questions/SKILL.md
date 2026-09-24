@@ -8,7 +8,7 @@ argument-hint: "<project type and situation: build, take over or urgent>"
 
 If the user passed arguments, they are: $ARGUMENTS
 
-**Language:** answer in the user's language.
+**Language:** answer in the user's language. Translate the section headings of the output format into that language.
 
 ## Workflow
 
