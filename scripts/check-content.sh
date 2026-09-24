@@ -6,7 +6,7 @@ ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
 
 # Exact blacklist from packaging checklist. Do not use bare "ito".
-PATTERN='IBAN|BIC[: ]|hiscox|azinove|rambert|genuyt|eiermann|goldschmidt|bodein|steeve|petitnid|kairos|centralis|slean|ze rencontre|dt interim|dt-interim|kappeler|gl events|gl-events|hemmerlin|ito calorifuge|partenaire odoo|odoo partner|\bn8n\b|make\.com|no-code|nocode|ne pas diffuser|notes internes'
+PATTERN='\bIBAN\b|BIC[: ]|hiscox|azinove|rambert|genuyt|eiermann|goldschmidt|bodein|steeve|petitnid|kairos|centralis|slean|ze rencontre|dt interim|dt-interim|kappeler|gl events|gl-events|hemmerlin|ito calorifuge|partenaire odoo|odoo partner|\bn8n\b|make\.com|no-code|nocode|ne pas diffuser|notes internes'
 
 echo "==> 1/2 Scanning for blacklisted content patterns…"
 

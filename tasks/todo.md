@@ -38,6 +38,10 @@ Plan : ~/.claude/plans/celui-de-l-organisation-jaikin-sasu-squishy-reef.md (vali
 
 ## Phase 4 — Évaluation des skills (3 documents piégés)
 - [x] 24/09, Sonnet : devis 9/9 pièges (+ erreur de total), cahier des charges 7/7, comparaison OK → evals/results/
-## Phase 5 — Publication (accord explicite de Victor avant repo public)
+## Phase 5 — Publication (accord de Victor le 24/09)
+- [x] Worker déployé sur https://mcp.jaikin.eu (version 9a341043) : initialize 200, 6 outils readOnly, vérifié via résolveur 1.1.1.1 (le DNS du VPN local ne voit pas encore le sous-domaine)
+- [x] Dépôt public https://github.com/Jaikin-SASU/claude-plugin-software-buyer (commit 8fd1529), CI verte
+- [x] Installation depuis GitHub testée (7 skills, 5 commandes, MCP) puis désinstallée
 ## Phase 6 — Soumission (Victor)
+- [ ] Formulaire https://platform.claude.com/plugins/submit avec le lien GitHub
 ## Phase 7 — Page jaikin.eu (option)
