@@ -1,0 +1,9 @@
+editeur,plan_entree,prix_annuel_eur_utilisateur_mois,prix_mensuel_eur_utilisateur_mois,perimetre,source_url,note,releve
+monday CRM,Basique,12,18,"CRM, taxes non incluses, équipe par défaut de 3 utilisateurs",https://monday.com/lang/fr/crm/pricing,,2026-09-23
+Pipedrive,Lite,14,,"CRM, hors TVA, facturation annuelle",https://www.pipedrive.com/fr/pricing,,2026-09-23
+Zoho CRM,Standard,14,20,"CRM, taxes en sus ; gratuit jusqu’à 3 utilisateurs",https://www.zohowebstatic.com/sites/zweb/json/pricing/crm-pricing-val.json,valeurs du fichier de prix de l’éditeur,2026-09-23
+HubSpot Sales Hub,Starter,20,,Sales Hub ; HT/TTC non précisé ; promotion dont la durée n’est pas affichée,https://www.hubspot.fr/pricing/sales,prix catalogue barré ; le 7 € est promotionnel,2026-09-23
+Odoo,Standard,24.9,31.1,"suite tout-en-un (toutes les applications), pas un CRM seul",https://www.odoo.com/fr_FR/pricing,"hors remise 1re année (19,90 €)",2026-09-23
+Salesforce,Starter Suite,25,25,CRM ; facturation mensuelle ou annuelle ; HT/TTC non précisé,https://www.salesforce.com/fr/sales/pricing/,,2026-09-23
+Sellsy,Vente Standard,29,35,"offre Vente (CRM seul), HT, paiement annuel, 2 utilisateurs minimum",https://go.sellsy.com/offres,,2026-09-23
+Microsoft Dynamics 365 Sales,Professional,56.3,,"CRM Sales, HT, paiement annuel",https://www.microsoft.com/fr-fr/dynamics-365/products/sales/pricing,,2026-09-23

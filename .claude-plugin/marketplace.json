@@ -1,0 +1,15 @@
+{
+  "name": "jaikin",
+  "description": "JAIKIN plugins for buying and delivering custom software in France.",
+  "owner": {
+    "name": "JAIKIN",
+    "url": "https://jaikin.eu"
+  },
+  "plugins": [
+    {
+      "name": "software-buyer-france",
+      "source": "./",
+      "description": "Price benchmarks, specification, quote and contract review for buying custom software in France."
+    }
+  ]
+}

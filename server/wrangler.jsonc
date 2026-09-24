@@ -1,0 +1,8 @@
+{
+  "name": "prix-logiciel-mcp",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-09-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "routes": [{ "pattern": "mcp.jaikin.eu", "custom_domain": true }],
+  "observability": { "enabled": false }
+}
