@@ -43,6 +43,13 @@ The review grids encode a buyer-protective standard used in real French software
 
 Not legal advice: have high-stakes contracts reviewed by a lawyer.
 
+## Further reading (JAIKIN, in French)
+- How we frame and price custom software — [Méthodologie](https://www.jaikin.eu/methodologie) · [Développement logiciel sur mesure](https://www.jaikin.eu/developpement-logiciel-sur-mesure)
+- Custom software vs SaaS — [Build or buy](https://www.jaikin.eu/blog/logiciel-sur-mesure-vs-saas-build-buy)
+- Mobile app budgets — [Prix d'une application mobile](https://www.jaikin.eu/blog/prix-application-mobile)
+- Taking over an existing system — [Reprise de SI legacy](https://www.jaikin.eu/reprise-si-legacy)
+- ERP projects — [ERP sur mesure](https://www.jaikin.eu/erp-sur-mesure) · [Migration ERP PME](https://www.jaikin.eu/migration-erp-pme)
+
 ## Install
 
 ```
