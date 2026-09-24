@@ -58,7 +58,7 @@ See [PRIVACY.md](PRIVACY.md). The MCP server stores nothing about your conversat
 
 ## Maintainer
 
-Built and maintained by [JAIKIN](https://jaikin.eu), Strasbourg (France). Issues and pull requests welcome.
+Built and maintained by [JAIKIN](https://www.jaikin.eu/), Strasbourg (France). Issues and pull requests welcome.
 
 ---
 
@@ -80,4 +80,4 @@ Built and maintained by [JAIKIN](https://jaikin.eu), Strasbourg (France). Issues
 
 **La méthode** : cartographier avant de chiffrer ; un forfait est plafonné ; tout est au nom du client dès le premier jour ; recette par procès-verbal ; sortie bornée et réversibilité ; hébergement tranché avant le chiffrage (le sur site est une option chiffrée à part) ; coûts tiers au tarif public daté, jamais « 0 € ».
 
-Ceci n'est pas un conseil juridique. Plugin conçu et maintenu par [JAIKIN](https://jaikin.eu), Strasbourg.
+Ceci n'est pas un conseil juridique. Plugin conçu et maintenu par [JAIKIN](https://www.jaikin.eu/), Strasbourg.

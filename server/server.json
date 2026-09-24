@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "eu.jaikin/software-prices-france",
+  "title": "Software Prices France",
+  "description": "Read-only French software project prices: public contracts (DECP) and verified private figures.",
+  "version": "0.2.2",
+  "websiteUrl": "https://www.jaikin.eu/",
+  "repository": {
+    "url": "https://github.com/Jaikin-SASU/claude-plugin-software-buyer",
+    "source": "github",
+    "subfolder": "server"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.jaikin.eu/mcp"
+    }
+  ]
+}
