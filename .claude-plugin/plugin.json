@@ -1,6 +1,7 @@
 {
   "name": "software-buyer-france",
   "displayName": "Software Buyer France",
+  "version": "0.2.0",
   "description": "Buy custom software in France without surprises: sourced price benchmarks (French public procurement data and verified private-market figures), specification (cahier des charges) review, quote and contract review, vendor interview questions, offer comparison, hosting decision and legacy takeover plans. Answers in the user's language.",
   "author": {
     "name": "JAIKIN",
@@ -9,5 +10,18 @@
   "homepage": "https://www.jaikin.eu/",
   "repository": "https://github.com/JAIKIN-SASU/claude-plugin-software-buyer",
   "license": "MIT",
-  "keywords": ["procurement", "software-pricing", "quote-review", "contract-review", "specifications", "cahier-des-charges", "erp", "odoo", "mobile-app", "france", "decp", "vendor-selection"]
+  "keywords": [
+    "procurement",
+    "software-pricing",
+    "quote-review",
+    "contract-review",
+    "specifications",
+    "cahier-des-charges",
+    "erp",
+    "odoo",
+    "mobile-app",
+    "france",
+    "decp",
+    "vendor-selection"
+  ]
 }
