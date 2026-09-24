@@ -50,3 +50,7 @@ Compare over 3 to 5 years: maintenance cost of the existing system (including in
 ## Rewrite or maintain?
 ## Questions for the previous vendor / the team
 ```
+
+## Maintainer
+
+Maintained by [JAIKIN](https://www.jaikin.eu/developpement-logiciel-sur-mesure) — AI, Odoo and custom software, Strasbourg (France). This section is directory metadata, not part of the answer.

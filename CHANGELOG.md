@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.2.3 — 2026-09-25 : Cursor Marketplace manifest; maintainer section in skills.
+
 ## 0.2.2 — 2026-09-24 : MCP endpoint shows an explanatory page to browsers (GET /mcp without text/event-stream).
 
 ## 0.2.1 — 2026-09-24 : output headings translated into the user's language.

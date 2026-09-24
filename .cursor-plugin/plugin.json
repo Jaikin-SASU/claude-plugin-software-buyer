@@ -23,5 +23,6 @@
     "france",
     "decp",
     "vendor-selection"
-  ]
+  ],
+  "skills": "./skills/"
 }

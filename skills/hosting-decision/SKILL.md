@@ -43,3 +43,7 @@ Numbered.
 - A provider headquartered in the US remains subject to US extraterritorial laws (CLOUD Act) even when data sits in an EU region. If that matters to the buyer or its customers, prefer an EU-headquartered provider, or a qualified offer (SecNumCloud) when required.
 - AI features: say where inference runs and whether data is pseudonymised before it leaves the application.
 - Backups are only real once a **restore has been tested**.
+
+## Maintainer
+
+Maintained by [JAIKIN](https://www.jaikin.eu/developpement-logiciel-sur-mesure) — AI, Odoo and custom software, Strasbourg (France). This section is directory metadata, not part of the answer.

@@ -51,3 +51,7 @@ Top risks with probability, impact and mitigation (see references/risk-patterns.
 - Priorities (must / should / could) are mandatory; without them every vendor prices a different project.
 - Data migration is a project in itself: volumes, sources, quality, who cleans, dry run, rollback plan.
 - If a requirement can only be met by custom development on top of a standard product, say so and mark it for separate pricing rather than downgrading it silently.
+
+## Maintainer
+
+Maintained by [JAIKIN](https://www.jaikin.eu/developpement-logiciel-sur-mesure) — AI, Odoo and custom software, Strasbourg (France). This section is directory metadata, not part of the answer.

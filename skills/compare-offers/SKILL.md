@@ -53,3 +53,7 @@ Numbered.
 - Buyers buy **bounded risk**, not the lowest number: a capped price, code in their name, a cheap exit.
 - Same scope before same price: never compare totals of offers covering different scopes.
 - A day rate alone means nothing without the number of days and a cap.
+
+## Maintainer
+
+Maintained by [JAIKIN](https://www.jaikin.eu/developpement-logiciel-sur-mesure) — AI, Odoo and custom software, Strasbourg (France). This section is directory metadata, not part of the answer.

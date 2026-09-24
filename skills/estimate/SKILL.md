@@ -53,3 +53,7 @@ What to write in the specification to get comparable quotes.
 - Cite every figure with its source and date. If a figure is not in the data, do not invent it.
 - Respect the dataset's publication floors: when a statistic is withheld because the sample is too small, say "not enough contracts to publish a median" rather than computing one yourself.
 - Framing before quoting: on a complex scope, recommend a paid framing phase whose deliverable makes the build priceable.
+
+## Maintainer
+
+Maintained by [JAIKIN](https://www.jaikin.eu/developpement-logiciel-sur-mesure) — AI, Odoo and custom software, Strasbourg (France). This section is directory metadata, not part of the answer.

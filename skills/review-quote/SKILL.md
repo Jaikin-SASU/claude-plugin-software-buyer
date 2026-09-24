@@ -57,3 +57,7 @@ Numbered, short, answerable in writing.
 - Acceptance (recette) needs a period, a written report (PV), a rule for blocking defects, and a re-test period. "Deemed accepted" is fair only if the buyer had a real period to test.
 - Penalties, liability caps and termination fees must be read **both ways**: what the vendor owes if late, what the buyer owes if it leaves.
 - Read clauses a contrario: "work already done remains due" can imply the rest is not; "we commit to the number of days" can mean you pay more days.
+
+## Maintainer
+
+Maintained by [JAIKIN](https://www.jaikin.eu/developpement-logiciel-sur-mesure) — AI, Odoo and custom software, Strasbourg (France). This section is directory metadata, not part of the answer.

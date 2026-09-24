@@ -41,3 +41,7 @@ Documents to request in advance (list).
 - Ask who does the work: named people, in-house or subcontracted, and who is the single point of contact.
 - Ask what the buyer gets if it stops midway. The answer tells more than any reference.
 - Large companies should also request: professional liability certificate, recent financial statements, social contributions certificate (attestation URSSAF, mandatory for contracts ≥ 5 000 € in France), DPA template, security policy, reversibility plan. Adapt the requirements to the risk: a small first lot limits exposure to a young vendor.
+
+## Maintainer
+
+Maintained by [JAIKIN](https://www.jaikin.eu/developpement-logiciel-sur-mesure) — AI, Odoo and custom software, Strasbourg (France). This section is directory metadata, not part of the answer.
