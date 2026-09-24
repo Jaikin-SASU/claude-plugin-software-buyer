@@ -1,7 +1,7 @@
 {
   "name": "software-buyer-france",
   "displayName": "Software Buyer France",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Buy custom software in France without surprises: sourced price benchmarks (French public procurement data and verified private-market figures), specification (cahier des charges) review, quote and contract review, vendor interview questions, offer comparison, hosting decision and legacy takeover plans. Answers in the user's language.",
   "author": {
     "name": "JAIKIN",

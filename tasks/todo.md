@@ -45,3 +45,9 @@ Plan : ~/.claude/plans/celui-de-l-organisation-jaikin-sasu-squishy-reef.md (vali
 ## Phase 6 — Soumission (Victor)
 - [ ] Formulaire https://platform.claude.com/plugins/submit avec le lien GitHub
 ## Phase 7 — Page jaikin.eu (option)
+
+## Session — landing HTML GET /mcp (navigateur)
+- [x] Tests `route.ts` (GET /mcp html → 200 ; event-stream/POST → délégué)
+- [x] `src/lib/route.ts` + branchement `index.ts`
+- [x] `npm test` + `npm run typecheck` verts
+
