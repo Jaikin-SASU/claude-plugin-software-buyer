@@ -49,7 +49,9 @@ function landingResponse(): Response {
     headers: {
       "content-type": "text/html; charset=utf-8",
       "x-content-type-options": "nosniff",
-      "cache-control": "public, max-age=3600",
+      // Same URL serves MCP clients: never let a shared cache store the HTML.
+      "cache-control": "no-store",
+      vary: "Accept",
     },
   });
 }

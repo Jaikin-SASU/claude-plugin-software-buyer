@@ -20,9 +20,9 @@ describe("decideRoute", () => {
     expect(decision.response.headers.get("x-content-type-options")).toBe(
       "nosniff",
     );
-    expect(decision.response.headers.get("cache-control")).toBe(
-      "public, max-age=3600",
-    );
+    // Same URL serves MCP clients: never let a shared cache store the HTML.
+    expect(decision.response.headers.get("cache-control")).toBe("no-store");
+    expect(decision.response.headers.get("vary")).toBe("Accept");
 
     const html = await decision.response.text();
     expect(html).toContain("<title>prix-logiciel — MCP server</title>");
